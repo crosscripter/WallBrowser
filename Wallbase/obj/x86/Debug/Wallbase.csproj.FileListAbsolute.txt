@@ -1,0 +1,14 @@
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\bin\Debug\Wallbase.exe.config
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\bin\Debug\Wallbase.exe
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\bin\Debug\Wallbase.pdb
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\bin\Debug\CsQuery.dll
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\bin\Debug\CsQuery.pdb
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\bin\Debug\CsQuery.xml
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\obj\x86\Debug\Wallbase.Form1.resources
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\obj\x86\Debug\Wallbase.Preview.resources
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\obj\x86\Debug\Wallbase.Properties.Resources.resources
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\obj\x86\Debug\Wallbase.exe
+C:\Users\MichaelS\documents\visual studio 2010\Projects\Wallbase\Wallbase\obj\x86\Debug\Wallbase.pdb
